@@ -6,7 +6,7 @@ class  Forfaits extends React.Component{
             <>
             <div className="is-preload">
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">	               
-                    <font face="Times New Roman" > WIAGATE </font>
+                <font face="Times New Roman" style={{fontSize: "300%", marginLeft: "8%" , marginTop: "1%"}}> WIAGATE </font>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
